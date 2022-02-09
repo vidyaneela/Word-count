@@ -23,6 +23,7 @@ Finding the length of the words by using len() function
 
 ### Step 6:
 Calling the function and printing the number of words.
+
 ## PROGRAM:
 ```
 with open("word_text.txt","r")as fp:
